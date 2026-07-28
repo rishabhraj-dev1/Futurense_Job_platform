@@ -1,0 +1,15 @@
+# General
+.DS_Store
+
+# Environments and dependencies
+node_modules/
+venv/
+env/
+.venv/
+.env
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo

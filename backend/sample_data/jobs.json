@@ -1,0 +1,72 @@
+[
+  {
+    "external_id": "sd-1",
+    "title": "Senior Frontend Engineer",
+    "company": "TechVision Inc",
+    "description": "We are looking for a Senior Frontend Engineer to lead our new React-based SaaS platform...",
+    "location": "Bangalore",
+    "salary_min": 25.0,
+    "salary_max": 35.0,
+    "work_mode": "Hybrid",
+    "skills_required": ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+    "experience_min": 4.0,
+    "experience_max": 8.0,
+    "job_type": "Full-time"
+  },
+  {
+    "external_id": "sd-2",
+    "title": "Backend Python Developer",
+    "company": "DataFlow Systems",
+    "description": "Join our core team building high-performance asynchronous APIs using FastAPI...",
+    "location": "Pune",
+    "salary_min": 15.0,
+    "salary_max": 25.0,
+    "work_mode": "Remote",
+    "skills_required": ["Python", "FastAPI", "PostgreSQL", "Docker"],
+    "experience_min": 2.0,
+    "experience_max": 5.0,
+    "job_type": "Full-time"
+  },
+  {
+    "external_id": "sd-3",
+    "title": "Full Stack Engineer",
+    "company": "Innovate AI",
+    "description": "Building the next generation of AI tools. You will work across the stack...",
+    "location": "Hyderabad",
+    "salary_min": 18.0,
+    "salary_max": 28.0,
+    "work_mode": "On-site",
+    "skills_required": ["React", "Python", "SQLAlchemy", "AWS"],
+    "experience_min": 3.0,
+    "experience_max": 6.0,
+    "job_type": "Full-time"
+  },
+  {
+    "external_id": "sd-4",
+    "title": "Junior Web Developer",
+    "company": "StartUp Spark",
+    "description": "Great opportunity for freshers to learn and grow in a fast-paced environment...",
+    "location": "Remote",
+    "salary_min": 5.0,
+    "salary_max": 8.0,
+    "work_mode": "Remote",
+    "skills_required": ["HTML", "CSS", "JavaScript", "React"],
+    "experience_min": 0.0,
+    "experience_max": 2.0,
+    "job_type": "Full-time"
+  },
+  {
+    "external_id": "sd-5",
+    "title": "DevOps Engineer",
+    "company": "CloudNative",
+    "description": "Manage our Kubernetes clusters and CI/CD pipelines...",
+    "location": "Bangalore",
+    "salary_min": 20.0,
+    "salary_max": 30.0,
+    "work_mode": "Hybrid",
+    "skills_required": ["Docker", "Kubernetes", "AWS", "CI/CD"],
+    "experience_min": 3.0,
+    "experience_max": 7.0,
+    "job_type": "Full-time"
+  }
+]
